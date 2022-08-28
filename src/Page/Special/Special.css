@@ -1,0 +1,13 @@
+
+
+.card2 :hover{
+    background-color: black;
+    background-size: 7px 7px;
+    position: relative;
+    top: 0;
+    left: 0;
+    transition: background-size .3s cubic-bezier(.455,.03,.515,.955);
+    color: white;
+}
+
+
